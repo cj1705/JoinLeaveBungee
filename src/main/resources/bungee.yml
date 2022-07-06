@@ -1,0 +1,3 @@
+name: JoinLeaveBungee
+version: ${project.version}
+main: com.carsongames.joinleavebungee.JoinLeaveBungee
